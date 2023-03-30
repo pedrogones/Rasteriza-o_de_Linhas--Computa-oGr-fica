@@ -1,0 +1,1 @@
+# Rasteriza-o_de_Linhas--Computa-oGr-fica
